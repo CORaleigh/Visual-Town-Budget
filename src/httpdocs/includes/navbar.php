@@ -1,7 +1,8 @@
 <div class="container wrapper">
   <div class="alert alert-warning" align="center">            
-    Data in this tool was updated on June 18, 2015 to reflect the <strong>adopted</strong> revenue and expenditure budget data for Fiscal Year 2016, approved by City Council on June 15, 2015.   
-    <br> The tool is still in a beta phase of development, so we welcome you to <a class="link" href="https://docs.google.com/forms/d/1fZiTbLURyLWOoval69mD5_nHSyAIJTiu9DbcKXKwDbQ/viewform">send us your feedback</a>! 
+    The Budget information in this tool was last updated on June 18, 2015 to reflect the <strong>adopted</strong> revenue and expenditure budget for Fiscal Year 2016.    
+    <br> 
+    The tool is still in a beta phase of development, so we welcome you to <a class="link" href="https://docs.google.com/forms/d/1fZiTbLURyLWOoval69mD5_nHSyAIJTiu9DbcKXKwDbQ/viewform">send us your feedback</a>! 
   </div>
 </div>  
 <div class="purple-border" id="avb-menubar" >
