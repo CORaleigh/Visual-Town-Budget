@@ -56,13 +56,12 @@ def generateList(inputFile):
 		csvfile = inputFile
 
 	dataline = csv.DictReader(csvfile, delimiter=',', quotechar='"', dialect='excel')
-
+	print dataline
 	#keep current row count for printing errors
 	currentRow = 0
 	yearSet = False
 
 	for row in dataline:
-
 		#initialize year-range
 		if not yearSet:
 			for key, value  in row.iteritems() :
@@ -115,7 +114,7 @@ def generateTree(csventries, filename):
 
 	#assign name to root
 	csventries[0].key = filename.capitalize()
-
+	
 	#tree-structure creation
 	stack = []
 	duplicates = []
@@ -212,6 +211,7 @@ def updateHome():
 		exit(1)
 
 	jsontext = json.dumps(root.reprJSON(), indent=0).replace('\n', '').replace('\r', '')
+
 	outputFile.write(jsontext)
 	outputFile.close()
 
@@ -220,6 +220,7 @@ def updateHome():
 		
 def updateData(inputFile):
 	outputFile = inputFile.split('/')[-1].split('.')[0]
+	print outputFile
 	csventries = generateList(inputFile)
 	generateTree(csventries, outputFile)
 
