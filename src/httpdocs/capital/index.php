@@ -23,7 +23,7 @@
         The map below shares details of the CIP projects currently planned based on its location throughout the city.*
         <br> 
         <h3>Capital Projects at Various Locations</h3>
-        Some capital projects involve maintenance at multiple facilities throughout the city. These projects primarily fall within the Parks and Recreation element and are not reflected on this map, but are instead shown in the table on our <a href="https://data.raleighnc.gov/d/83mw-cjaj" target='blank' open data site</a>.
+        Some capital projects involve maintenance at multiple facilities throughout the city. These projects primarily fall within the Parks and Recreation element and are not reflected on this map, but are instead shown in the table on our <a href="https://data.raleighnc.gov/d/83mw-cjaj" target="blank"> open data site</a>.
         </div>
         <span class = 'fl_r'>
           * Please note: This map displays only projects proposed in the FY17-FY21 CIP with a known location. The map does not include technology projects and planning studies.
