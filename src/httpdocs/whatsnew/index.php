@@ -43,35 +43,37 @@
     <div class="flexslider carousel">
       <ul class="slides">
         <li>
-          <img src="/budgetvisualization/img/slides/slide7.jpg" />
+          <img src="/budgetvisualization/img/slides/slide17_a.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>Budget Themes for 2015-2016</h2>
-                <p>Three themes emerge from the FY16 budget proposal, which are reflective of Raleigh’s dynamic, growing and changing community:
+                <h2>FY2017 Proposed Budget</h2>
             		  <ol>
-            		  	<li>Increasing service demands resulting from population and development activity growth outpace Raleigh’s projected revenue growth;</li>
-            		  	<li>Smart strategies are necessary to align new and existing resources to address the community’s highest priority needs; and</li>
-                    <li>Future strategic investments in the areas of economic development, affordable housing, transportation and parks and cultural amenities will further define the city’s character and identity and are critical elements of sustaining Raleigh’s high quality of life in the long term.</li>
+            		  	<li>Totals $858.6M, an increase of $25M (3%) over the FY2016 Adopted Budget</li>
+                    <li>Allocates one penny of property tax revenue ($5.7M) to affordable housing programs</li>
+                    <li>Allocates one penny of property tax revenue ($5.7M) to fund the debt service on acquiring the Dorothea Dix property</li>
+                    <li>Funds initiatives in each of the six Key Focus Areas of the City’s Strategic Plan</li>
             		  </ol>
                 </p>
-                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2016Budget/#6" target="_blank" class="border-button">
+<!--                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2016Budget/#6" target="_blank" class="border-button">
                   Read or Download Budget Details
-                </a>
-              </div>
+                   </a>
+-->           </div>
             </div>
         </li>
         <li>
-          <img src="/budgetvisualization/img/slides/slide4.jpg" />
+          <img src="/budgetvisualization/img/slides/slide17_1.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>Revenue Highlights</h2>
+                <h2>Safe, Vibrant and Healthy Community</h2>
                 <p>
             		  <ul>
-            	      <li>Economic growth increases sales tax $3.3 million (4%), over FY15 projections.</li>
-                    <li>Garbage Fee increases $.75 per month, which increases the percentage of costs recovered through fees from 67% to 72%. Residential customers will pay a combined trash collection and recycling fee of $14.05 monthly.</li>
-            	      <li>Public Utilities: 6% increase in water and sewer volumetric rates as well as increases to the water and sewer infrastructure replacement fees. For customers using 5 CCFs of water monthly, this equates to an increase of $3.24 per month.</li>
-                    <li>The property tax rate includes a 1.72 cent increase proposed for implementation of the voter approved 2014 Parks bond referendum.  This tax increase is projected to raise $8.8 million annually.</li>
-                    <li>Loss of business privilege license tax revenue impacts the City’s ability to respond fully to increasing service demands from community and development activity growth.</li>
+                    <li>Expands tax credit program to increase supply of affordable rental units in the City</li>
+                    <li>Funds a new water and sewer bill assistance program to aid qualifying Raleigh residents with past due bills</li>
+                    <li>Creates a new downtown crew to improve service levels for litter pickup, trash removal, and cleaning</li>
+                    <li>Implements a pilot of body-worn cameras in the Police Department to strengthen the public’s trust in our law enforcement officers</li>
+                    <li>Opens a new 911 dispatch center, and provide 10 additional 911 call takers</li>
+                    <li>Provides capital funding for a new law enforcement training center, new Fire Department administrative offices, and a new Fire Station #1</li>
+                    <li>Begins a long-term fire apparatus replacement plan</li>
             		  </ul>
                 </p>
                 <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2016Budget/#66" target="_blank" class="border-button">
@@ -81,17 +83,16 @@
             </div>
         </li>
         <li>
-          <img src="/budgetvisualization/img/slides/slide3.jpg" />
+          <img src="/budgetvisualization/img/slides/slide17_2.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>Expenditure Highlights</h2>
+                <h2>Arts and Cultural Resources</h2>
                 <p>
             		  <ul>
-                    <li>Total net operating and capital budget proposed for FY16 is $833.6 million.</li>
-                    <li>$369.1 million net total budget for enterprise funds, including Public Utilities, Stormwater, Transit, Convention Center Complex and Solid Waste Services.</li>
-                    <li>Opens or expands three new facilities:  Abbotts Creek Park, Dr. Martin Luther King, Jr. Memorial Gardens and Phase 1 of the Horseshoe Farm Nature Preserve, offering residents greater access to park, recreation, and cultural amenities in north, northeast, and southeast Raleigh.</li>
-                    <li>Opens the Central Communications Center, which will house multiple public safety and general government functions to ensure the ongoing safety of our residents while providing reliable, secure operations across the organization.</li>
-                    <li>Opens the Central Operations Facility and adds five new positions for additional support of vehicle service and equipment maintenance, reducing staff downtime and improving overall fleet utilization.</li>
+                    <li>Begins master planning for Dorothea Dix Park this Summer</li>
+                    <li>Funds monthly editions of Oak City Sessions, highlighting our local music talent</li>
+                    <li>Adds a position in City Planning for historic preservation and fund a survey of properties for potential inclusion in the National Historic Register</li>
+                    <li>Enhances our public art collection with an additional art exhibit curator position</li>
             		  </ul>
                 </p>
                 <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2016Budget/#6" target="_blank" class="border-button">
@@ -101,20 +102,76 @@
             </div>
         </li>
         <li>
-          <img src="/budgetvisualization/img/slides/slide2.jpg" />
+          <img src="/budgetvisualization/img/slides/slide17_3.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>Capital Improvements</h2>
+                <h2>Economic Development and Innovation</h2>
                 <p>
             		  <ul>
-            		  	<li>Totals $1.04 billion over five years; $215.6 million in FY16 focused on deferred maintenance of buildings and infrastructure, primarily for the city’s water and sewer system, transportation, and parks system.</li>
-            		  	<li>Implements the $92 million bond for parks, recreation, and cultural resources, approved by voters in 2014. Initial projects include the Crabtree Creek West Greenway, Lineberry Neighborhood Park, and Devereau Meadows master planning.</li>
-            		  	<li>Continues implementation of $75 million transportation bond, approved by voters in Fall 2013. The bond program includes several road widenings, as well as funding for streetscapes, traffic calming, and matching funds for NCDOT projects.</li>
-            		  	<li>Invests $142.5 million over the next five years to replace aging water and sewer mains and other infrastructure in public utilities.</li>
+                    <li>Implements Building Upfit Grant program with $500,000 in annual funding</li>
+                    <li>Adds  positions to boost marketing and other efforts in the Office of Economic Development and Innovation</li>
+                    <li>Adds Development Services positions to enhance services for large-scale projects</li>
+                    <li>Adds a planner position to focus on civic design projects</li>
+                    <li>Funds additional area planning, including Avent Ferry Road</li>
             		  </ul>
                 </p>
                 <a href="/budgetvisualization/capital" target="_blank" class="border-button">
                   Explore Capital Improvement Program
+                </a>
+              </div>
+            </div>
+        </li>
+        <li>
+          <img src="/budgetvisualization/img/slides/slide17_4.jpg" />
+            <div class="slide-overlay">
+              <div>
+                <h2>Growth and Natural Resources</h2>
+                <p>
+                  <ul>
+                    <li>Adds 12 positions and program funds to open four renovated or new parks, including Thomas G. Crowder Woodland Center, Horseshoe Farm Nature Reserve, Forest Ridge Park, and Moore Square</li>
+                    <li>Increases water and sewer volumetric rates, and infrastrucuture fees, to fund long-term infrastructure maintenance program; Average residential customer will see $1.99 increase per month</li>
+                    <li>Increases the stormwater fee by $1 per month to fund more capital investment in drainage assistance, system repairs, and acquiring flood-prone property</li>
+                    <li>Adds 12 positions to create two stormwater project crews to expedite construction of stormwater infrastructure</li>
+                    <li>Increases monthly fee residential solid waste by 75 cents to fund route efficiency changes and move closer to 80% cost recovery goal </li>
+                  </ul>
+                </p>
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2016Budget/#66" target="_blank" class="border-button">
+                  Read or Download Budget Details
+                </a>
+              </div>
+            </div>
+        </li>
+        <li>
+          <img src="/budgetvisualization/img/slides/slide17_5.jpg" />
+            <div class="slide-overlay">
+              <div>
+                <h2>Transportation and Transit</h2>
+                <p>
+                  <ul>
+                    <li>Adds three positions to support and expedite capital project implementation</li>
+                    <li>Provides matching funds for grant to implement a new BikeShare program, and create a BikeShare coordinator position</li>
+                    <li>Adds two positions to prepare for the future opening of Raleigh Union Station. </li>
+                  </ul>
+                </p>
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2016Budget/#66" target="_blank" class="border-button">
+                  Read or Download Budget Details
+                </a>
+              </div>
+            </div>
+        </li>
+        <li>
+          <img src="/budgetvisualization/img/slides/slide17_6.jpg" />
+            <div class="slide-overlay">
+              <div>
+                <h2>Organizational Excellence</h2>
+                <p>
+                  <ul>
+                    <li>Funds a citizen survey, to be administered in Fall 2016, to collect citizen feedback on City services</li>
+                    <li>Invests in a new downtown civic campus, which will consolidate City services currently spread across over six sites, improving customer service and civic engagement, increasing staff efficiency, and creating new economic development opportunities</li>                  
+                  </ul>
+                </p>
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2016Budget/#66" target="_blank" class="border-button">
+                  Read or Download Budget Details
                 </a>
               </div>
             </div>
