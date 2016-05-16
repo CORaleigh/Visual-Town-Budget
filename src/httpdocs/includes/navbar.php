@@ -1,5 +1,5 @@
 <div class="container wrapper">
-  <div class="alert alert-info" align="center">            
+  <div class="alert alert-danger" align="center">            
     The budget information in the visualizations throughout this website reflect the <strong>PROPOSED</strong> revenue, expenditure and capital budgets for Fiscal Year 2017.    
     <br> 
     We welcome you to <a class="link" href="https://docs.google.com/forms/d/1fZiTbLURyLWOoval69mD5_nHSyAIJTiu9DbcKXKwDbQ/viewform">send us your feedback</a>! 
