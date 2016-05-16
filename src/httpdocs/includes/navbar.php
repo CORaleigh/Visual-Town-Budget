@@ -1,6 +1,6 @@
 <div class="container wrapper">
   <div class="alert alert-warning" align="center">            
-    The Budget information in this tool was last updated on June 18, 2015 to reflect the <strong>adopted</strong> revenue and expenditure budget for Fiscal Year 2016.    
+    The Budget information in this tool was last updated on May 17, 2016 to reflect the <strong>adopted</strong> revenue and expenditure budget for Fiscal Year 2017.    
     <br> 
     The tool is still in a beta phase of development, so we welcome you to <a class="link" href="https://docs.google.com/forms/d/1fZiTbLURyLWOoval69mD5_nHSyAIJTiu9DbcKXKwDbQ/viewform">send us your feedback</a>! 
   </div>
