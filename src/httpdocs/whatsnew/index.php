@@ -47,12 +47,12 @@
             <div class="slide-overlay">
               <div>
                 <h2>FY2017 Proposed Budget</h2>
-            		  <ol>
+            		  <ul>
             		  	<li>Totals $858.6M, an increase of $25M (3%) over the FY2016 Adopted Budget</li>
                     <li>Allocates one penny of property tax revenue ($5.7M) to affordable housing programs</li>
                     <li>Allocates one penny of property tax revenue ($5.7M) to fund the debt service on acquiring the Dorothea Dix property</li>
                     <li>Funds initiatives in each of the six Key Focus Areas of the City’s Strategic Plan</li>
-            		  </ol>
+            		  </ul>
                 </p>
 <!--                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#6" target="_blank" class="border-button">
                   Read or Download Budget Details
@@ -76,7 +76,7 @@
                     <li>Begins a long-term fire apparatus replacement plan</li>
             		  </ul>
                 </p>
-                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#66" target="_blank" class="border-button">
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#7/z" target="_blank" class="border-button">
                   Read or Download Budget Details
                 </a>
               </div>
@@ -95,7 +95,7 @@
                     <li>Enhances our public art collection with an additional art exhibit curator position</li>
             		  </ul>
                 </p>
-                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#6" target="_blank" class="border-button">
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#8/z" target="_blank" class="border-button">
                   Read or Download Budget Details
                 </a>
               </div>
@@ -115,8 +115,8 @@
                     <li>Funds additional area planning, including Avent Ferry Road</li>
             		  </ul>
                 </p>
-                <a href="/budgetvisualization/capital" target="_blank" class="border-button">
-                  Explore Capital Improvement Program
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#8/z" target="_blank" class="border-button">
+                  Read or Download Budget Details
                 </a>
               </div>
             </div>
@@ -135,7 +135,7 @@
                     <li>Increases monthly fee residential solid waste by 75 cents to fund route efficiency changes and move closer to 80% cost recovery goal </li>
                   </ul>
                 </p>
-                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#66" target="_blank" class="border-button">
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#9/z" target="_blank" class="border-button">
                   Read or Download Budget Details
                 </a>
               </div>
@@ -153,7 +153,7 @@
                     <li>Adds two positions to prepare for the future opening of Raleigh Union Station. </li>
                   </ul>
                 </p>
-                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#66" target="_blank" class="border-button">
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#10/z" target="_blank" class="border-button">
                   Read or Download Budget Details
                 </a>
               </div>
@@ -170,7 +170,7 @@
                     <li>Invests in a new downtown civic campus, which will consolidate City services currently spread across over six sites, improving customer service and civic engagement, increasing staff efficiency, and creating new economic development opportunities</li>                  
                   </ul>
                 </p>
-                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#66" target="_blank" class="border-button">
+                <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#10/z" target="_blank" class="border-button">
                   Read or Download Budget Details
                 </a>
               </div>
