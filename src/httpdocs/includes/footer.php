@@ -11,7 +11,7 @@
 </div> -->
 
  <div id="footer" class="container">
-  *Source: <a class="link" href="https://data.raleighnc.gov/Fiscal-Year-2016-Proposed-to-Council/FY16-Proposed-Expense-Budget/dk9v-sirr">Open Data</a> 
+  *Source: <a class="link" target="_blank" href="https://data.raleighnc.gov/Fiscal-Year-2017-Proposed-to-Council/FY17-Proposed-And-FY12-FY16-Adopted-City-Of-Raleig/4xkq-mmee">Open Data</a> 
   from the 
   <a class="link" target="_blank" href="http://www.raleighnc.gov/">City of Raleigh</a>. 
   <br>
@@ -22,14 +22,12 @@
 		The revenue and expense amounts shown above include only operating funds. For additional capital budget information, <a class="link" href="/budgetvisualization/capital">explore this Capital Improvement Program page</a>. 
   		</li>
   		<li>
-  		The budget information above does include interfund transfers, which are not included in the summary tables in the <a class="link" href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#13/z">2016-2017 Budget Book</a>.
-  		
-  			<a class="link" href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#17/z">Find more explanation of interfund transfers here.</a>
+  		The budget information above does include interfund transfers, which are not included in the summary tables in the <a class="link" target="_blank" href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget">2016-2017 Budget Book</a>.
+  			<a class="link" target="_blank" href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#13/z">Find more explanation of interfund transfers here.</a>
   		</li>
   		<li>
   			FY refers to the City's Fiscal Year, which spans July 1 to June 30.
   		</li>
   	</ul>	
   <br>
-
 </div>
