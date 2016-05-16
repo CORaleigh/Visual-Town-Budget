@@ -22,7 +22,7 @@
 		The revenue and expense amounts shown above include only operating funds. For additional capital budget information, <a class="link" href="/budgetvisualization/capital">explore this Capital Improvement Program page</a>. 
   		</li>
   		<li>
-  		The budget information above does include interfund transfers, which are not included in the summary tables in the <a class="link" href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#37/z">2016-2017 Budget Book</a>.
+  		The budget information above does include interfund transfers, which are not included in the summary tables in the <a class="link" href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#13/z">2016-2017 Budget Book</a>.
   		
   			<a class="link" href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017Budget/#17/z">Find more explanation of interfund transfers here.</a>
   		</li>
