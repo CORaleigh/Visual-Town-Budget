@@ -17,14 +17,16 @@
       <div class="container wrapper">
         <div class="well">
         <h3>Capital Improvement Program</h3>
-        The capital improvement program (CIP) is a five year plan that allocates
+        The <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017CIP/#6">capital improvement program (CIP)</a> is a five year plan that allocates
         limited financial resources to high priority needs. It is a primary mechanism for implementing the city’s
         long-term vision and strategic plan. The program proposes budgeting <strong>$167.6 million</strong> in capital spending for FY2017, and <strong>$1.21 billion</strong> over the next 5 years. The latter figure represents a 16% increase over last years capital budget. 
         The map below shares details of the CIP projects currently planned based on its location throughout the city.*
         <br> 
         <h3>Capital Projects at Various Locations</h3>
-        Some capital projects involve maintenance at multiple facilities throughout the city. These projects primarily fall within the Parks and Recreation element and are not reflected on this map, but are instead shown in the table on our <a href="https://data.raleighnc.gov/d/83mw-cjaj" target="blank"> open data site</a>.
-        </div>
+        Some capital projects involve maintenance at multiple facilities throughout the city. These projects primarily fall within the Parks and Recreation element and are not reflected on this map, but are instead shown in the table on our <a href="https://data.raleighnc.gov/d/rvdc-t75z" target="blank">open data site</a>.
+        <br>
+        <iframe width="100%" title="Unmapped Capital Project Categories - Proposed FY17" height="425px" src="https://data.raleighnc.gov/w/dntg-xnx8/2fxh-wcp7?cur=dIOeMIYZjiK&from=root" frameborder="0"scrolling="no"><a href="https://data.raleighnc.gov/Fiscal-Year-2017-Proposed-to-Council/Unmapped-Capital-Project-Categories-Proposed-FY17/dntg-xnx8" title="Unmapped Capital Project Categories - Proposed FY17" target="_blank">Unmapped Capital Project Categories - Proposed FY17</a></iframe>
+      </div>
         <span class = 'fl_r'>
           * Please note: This map displays only projects proposed in the FY17-FY21 CIP with a known location. The map does not include technology projects and planning studies.
         </span>
