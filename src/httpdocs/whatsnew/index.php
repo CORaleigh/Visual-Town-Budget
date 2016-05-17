@@ -85,7 +85,8 @@
         <li>
           <img src="/budgetvisualization/img/slides/slide17_2.jpg" />
             <div class="slide-overlay">
-              <h2>Arts &amp; Cultural Resources</h2>               
+              <div>
+                <h2>Arts &amp; Cultural Resources</h2>               
                 <p>
             		  <ul>
                     <li>Begins master planning for Dorothea Dix Park this Summer</li>
