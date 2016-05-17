@@ -16,9 +16,9 @@
       	  <a href="https://twitter.com/openraleigh" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @openraleigh</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
           <p>Your data. Your Raleigh.<br>Making civic engagement easier.</p>
-        </div>
           <p><img src="http://i.imgur.com/sk4tSUz.png" alt="Github">
-            Fork us on <a target="_blank" href="https://github.com/CORaleigh/visual-town-budget">GitHub</a></p>
+            Fork us on <a target="_blank" href="https://github.com/CORaleigh/visual-town-budget">GitHub</a></p>          
+        </div>
        <!-- FOOTER COLUMN 3 -->
         <div class='span4 alpha collaboration'>
         	<ul>
