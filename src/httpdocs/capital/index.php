@@ -17,7 +17,7 @@
       <div class="container wrapper">
         <div class="well">
         <h3>Capital Improvement Program</h3>
-        The capital improvement program (CIP) is a five year plan that allocates
+        The <a href="http://www.raleighnc.gov/content/extra/Books/BudgetManagement/FY2017CIP/#6">capital improvement program (CIP)</a> is a five year plan that allocates
         limited financial resources to high priority needs. It is a primary mechanism for implementing the city’s
         long-term vision and strategic plan. The program proposes budgeting <strong>$167.6 million</strong> in capital spending for FY2017, and <strong>$1.21 billion</strong> over the next 5 years. The latter figure represents a 16% increase over last years capital budget. 
         The map below shares details of the CIP projects currently planned based on its location throughout the city.*
