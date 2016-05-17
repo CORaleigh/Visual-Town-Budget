@@ -17,13 +17,15 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
           <p>Your data. Your Raleigh.<br>Making civic engagement easier.</p>
         </div>
+          <p><img src="http://i.imgur.com/sk4tSUz.png" alt="Github">
+            Fork us on <a target="_blank" href="https://github.com/CORaleigh/visual-town-budget">GitHub</a></p>
        <!-- FOOTER COLUMN 3 -->
         <div class='span4 alpha collaboration'>
         	<ul>
-        		<li><a target="_blank" href="https://docs.google.com/forms/d/1fZiTbLURyLWOoval69mD5_nHSyAIJTiu9DbcKXKwDbQ/viewform">Send us your feedback!</a></li>
+        		<li>Powered by <a target="_blank" href="https://data.raleighnc.gov/category/finance">Open Data</a></li>
+            <li><a target="_blank" href="https://docs.google.com/forms/d/1fZiTbLURyLWOoval69mD5_nHSyAIJTiu9DbcKXKwDbQ/viewform">Send us your feedback!</a></li>
         		<li>Original open source code by <br>
         			<a target="_blank" href="http://codeforasheville.org/">Code for Asheville</a> and <a target="_blank" href="http://www.goinvo.com">Involution Studios</a></li>
-        		<li>Our code on <a target="_blank" href="https://github.com/CORaleigh/visual-town-budget">GitHub</a></li>
         	</ul>
         </div>
       </div>
