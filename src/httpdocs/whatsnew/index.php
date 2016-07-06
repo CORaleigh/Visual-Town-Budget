@@ -46,7 +46,7 @@
           <img src="/budgetvisualization/img/slides/slide17_a.jpg" />
             <div class="slide-overlay">
               <div>
-                <h2>FY2017 Proposed Budget</h2>
+                <h2>FY2017 Adopted Budget</h2>
             		  <ul>
             		  	<li>Totals $858.6M, an increase of $25M (3%) over the FY2016 Adopted Budget</li>
                     <li>Allocates one penny of property tax revenue ($5.7M) to affordable housing programs</li>
