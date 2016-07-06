@@ -86,12 +86,7 @@
           <img src="/budgetvisualization/img/slides/slide17_2.jpg" />
             <div class="slide-overlay">
               <div>
-                <div style="height: 100px;
-                    background: #ECBA3F;">
-                    <img src="https://www.raleighnc.gov/content/BudgetManagement/Images/Arts.png "style="
-                    height: 100%;
-                    width: auto;">
-                </div>                
+                <h2>Arts &amp; Cultural Resources</h2>               
                 <p>
             		  <ul>
                     <li>Begins master planning for Dorothea Dix Park this Summer</li>

@@ -1,7 +1,6 @@
 <div class="container wrapper">
-  <div class="alert alert-danger" align="center">            
-    The budget information in the visualizations throughout this website reflect the <strong>PROPOSED</strong> Fiscal Year 2017 revenue, expenditure and capital budgets, as of May 17, 2016. 
-    City Council will vote on the proposed budget by June 30.   
+  <div class="alert alert-success" align="center">            
+    The budget information throughout this website reflect the revenue, expenditure and capital budgets adopted by City Council. Fiscal Year 2017 budgets were adopted June 20, 2016.
     We welcome you to <a class="link" href="https://docs.google.com/forms/d/1fZiTbLURyLWOoval69mD5_nHSyAIJTiu9DbcKXKwDbQ/viewform">send us your feedback</a>! 
   </div>
 </div>  
