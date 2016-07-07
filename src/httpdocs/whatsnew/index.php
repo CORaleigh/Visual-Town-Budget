@@ -48,7 +48,7 @@
               <div>
                 <h2>FY2017 Adopted Budget</h2>
             		  <ul>
-            		  	<li>Totals $858.6M, an increase of $25M (3%) over the FY2016 Adopted Budget</li>
+            		  	<li>Totals $859M, an increase of $25.4M (3%) over the FY2016 Adopted Budget</li>
                     <li>Allocates one penny of property tax revenue ($5.7M) to affordable housing programs</li>
                     <li>Allocates one penny of property tax revenue ($5.7M) to fund the debt service on acquiring the Dorothea Dix property</li>
                     <li>Funds initiatives in each of the six Key Focus Areas of the City’s Strategic Plan</li>
