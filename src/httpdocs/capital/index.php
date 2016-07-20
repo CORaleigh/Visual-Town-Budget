@@ -28,7 +28,7 @@
         <iframe width="100%" title="Unmapped Capital Project Categories - Proposed FY17" height="425px" src="https://data.raleighnc.gov/w/4mwv-9ujd/2fxh-wcp7?cur=5_ASNNDvjZM&from=root" frameborder="0"scrolling="no"><a href="https://data.raleighnc.gov/d/4mwv-9ujd" title="Unmapped Capital Project Categories - Proposed FY17" target="_blank">Unmapped Capital Project Categories - Proposed FY17</a></iframe>
       </div>
         <span class = 'fl_r'>
-          * Please note: This map displays only projects proposed in the FY17-FY21 CIP with a known location. The map does not include technology projects and planning studies.
+          * Please note: This map displays only projects in the FY17-FY21 CIP with a known location. The map does not include technology projects and planning studies.
         </span>
         <iframe class="border" width="100%" height="610" frameborder="0" scrolling="no" src="http://ral.maps.arcgis.com/apps/webappviewer/index.html?id=8c9d7bab08ae43ea9edf134c07722cbd"></iframe>
       </div>  
